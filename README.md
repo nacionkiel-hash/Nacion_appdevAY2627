@@ -1,0 +1,3 @@
+Lab Actvity 0
+
+One of the primary challenges I encountered while setting up my native Android Java development environment was familiarizing myself with Android Studio and its different components. At first, it was confusing to navigate the IDE and understand where the source code, XML layouts, Android SDK, and project settings were located. To overcome this challenges I explored android studio and began experimenting various components and tools for the app. I used the terminal to push my code to github and encountered a git error when I checked the checkbox for readme when creating a github repository was checked thats why I couldn’t push my project. This experience helped me understand where to focus my studies with new environment.
